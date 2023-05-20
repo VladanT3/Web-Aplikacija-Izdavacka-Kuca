@@ -1,0 +1,2 @@
+function izlogovanje()
+    localStorage.clear();

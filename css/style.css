@@ -1,0 +1,157 @@
+body, .input-boja, .input-boja:focus, .dropdown-stamparija-menu, .dropdown-stamparija-stavke {
+    background-color: #212529;
+    color: white;
+}
+
+.input-kolicina-prodavnica {
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    margin-top: -7px;
+}
+
+.table-akcija, .btn-login, .btn-korpa, .btn-checkout, .div-kolicina, .div-map {
+    text-align: center;
+}
+
+.form-stil, .table-stil, .pretraga-knjiga, .form-admin, .div-about, .btn-unos-knjiga, .select-pretraga {
+    margin-top: 50px;
+}
+
+.select-stamparija, .btn-naruci {
+    margin-top: 25px;
+}
+
+.ikonica:hover {
+    margin-bottom: 2px;
+}
+
+.ikonica-narucivanje:hover, .ikonica-racuni:hover {
+    margin-left: 5px;
+}
+
+.form-narucivanje {
+    width: 50%;
+    margin-top: 90px;
+}
+
+.btn-dodaj-stavku {
+    margin-top: 9px;
+}
+
+.ukupna-cena, .btn-dodaj-u-korpu {
+    margin-top: 10px;
+}
+
+.dropdown-stamparija-stavke:hover, .list-korpa-li {
+    background-color: #2C3034;
+    color: white;
+}
+
+.dropdown-stamparija-stavke:active, .dropdown-artikal:hover {
+    background-color: #FEBF32;
+    color: black;
+}
+
+.form-login, .form-checkout, .list-korpa, .div-reklame-2 {
+    margin-top: 100px;
+}
+
+.switch-password, .div-artikal:hover {
+    background-color: #2C3034;
+}
+
+.switch-password:checked {
+    background-color: #FEBF32;
+}
+
+.input-datum {
+    color-scheme: dark;
+}
+
+.admin-buttons, .div-reklame-1 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.input-admin {
+    font-weight: bold;
+}
+
+.input-kolicina {
+    margin: auto;
+    display: block;
+    width: 100px;
+    color-scheme: dark;
+}
+
+.div-naziv-cena {
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.div-artikal {
+    border: 1px solid #2C3034;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.div-pomocni {
+    padding: 10px;
+}
+
+.cart-icon {
+    color: #212529;
+}
+
+.dropdown-korpa {
+    width: 400px;
+}
+
+.cart-izbaci, .prodavnica-kolicina {
+    color : #FEBF32
+}
+
+.cart-izbaci:hover {
+    color: #DB3447;
+}
+
+.prodavnica-kolicina:hover {
+    color: #FFDB8F;
+}
+
+.p-korpa-artikli {
+    margin-bottom: 0px;
+}
+
+.home-carousel {
+    padding: 50px 0px 50px 0px;
+    background-color: #2C3034;
+}
+
+.select-pretraga-label {
+    background-color: #2C3034;
+    border-color: #2C3034;
+    color: white;
+}
+
+.select-pretraga-izbor, .select-stamparija-izbor {
+    background-color: #212529;
+    border-color: #2C3034;
+    color: white;
+}
+
+.select-stamparija-label {
+    background-color: #FEBF32;
+    border-color: #FEBF32;
+    color: black;
+}
+
+.div-checkout-greska {
+    border: 1px solid #DB3447;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 20px;
+    color: #DB3447;
+}
